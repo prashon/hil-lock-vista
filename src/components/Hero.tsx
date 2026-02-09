@@ -6,19 +6,22 @@ const Hero = () => {
 
   const slides = [
     {
-      image: '/images/whatsapp_image_2026-01-25_at_4.31.52_pm.jpeg',
+      image: '/images/swim.jpeg',
       alt: 'Hillock Vista Pool View',
     },
     {
-      image: '/images/whatsapp_image_2026-01-25_at_4.31.52_pm_(1).jpeg',
+      image: '/images/front.jpeg',
       alt: 'Hillock Vista Exterior',
     },
     {
-      image: '/images/whatsapp_image_2026-01-25_at_4.31.52_pm.jpeg',
+      image: '/images/downlo.jpeg',
       alt: 'Malnad Hills View',
     },
     {
-      image: '/images/whatsapp_image_2026-01-25_at_4.31.52_pm_(1).jpeg',
+      image: '/images/down.jpeg',
+      alt: 'Resort Property',
+
+      image: '/images/kids.jpeg',
       alt: 'Resort Property',
     },
   ];

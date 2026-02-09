@@ -4,23 +4,23 @@ const Rooms = () => {
   const rooms = [
     {
       title: 'Deluxe Room',
-      image: '/images/whatsapp_image_2026-01-25_at_4.31.52_pm.jpeg',
+      image: '/images/delu.jpeg',
       description: 'Spacious room with stunning Malnad hill views and modern amenities',
       features: ['King Size Bed', 'Up to 2 Guests', 'Free WiFi', 'Complimentary Breakfast'],
       price: 'Contact for pricing',
     },
     {
       title: 'Family Suite',
-      image: '/images/whatsapp_image_2026-01-25_at_4.31.52_pm_(1).jpeg',
+      image: '/images/bed.jpeg',
       description: 'Perfect for families with extra space and comfortable furnishings',
-      features: ['2 Queen Beds', 'Up to 4 Guests', 'Free WiFi', 'Complimentary Breakfast'],
+      features: ['2 Queen Beds', 'Up to 4-6 Guests', 'Free WiFi', 'Complimentary Breakfast'],
       price: 'Contact for pricing',
     },
     {
-      title: 'Premium Villa',
-      image: '/images/whatsapp_image_2026-01-25_at_4.31.52_pm.jpeg',
+      title: 'Dormitory',
+      image: '/images/dorm.jpeg',
       description: 'Luxurious villa with private balcony overlooking the hills',
-      features: ['King Size Bed', 'Up to 3 Guests', 'Free WiFi', 'Complimentary Breakfast'],
+      features: ['Deluxe Size Beds', 'Up to 20 Guests', 'Free WiFi', 'Complimentary Breakfast'],
       price: 'Contact for pricing',
     },
   ];

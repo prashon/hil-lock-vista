@@ -6,36 +6,36 @@ const Gallery = () => {
 
   const images = [
     {
-      url: '/images/whatsapp_image_2026-01-25_at_4.31.52_pm.jpeg',
-      title: 'Swimming Pool',
-    },
-    {
-      url: '/images/whatsapp_image_2026-01-25_at_4.31.52_pm_(1).jpeg',
-      title: 'Property Exterior',
-    },
-    {
-      url: '/images/whatsapp_image_2026-01-25_at_4.31.52_pm.jpeg',
+      url: '/images/delu.jpeg',
       title: 'Luxury Room',
     },
     {
-      url: '/images/whatsapp_image_2026-01-25_at_4.31.52_pm_(1).jpeg',
-      title: 'Pool View',
+      url: '/images/swim.jpeg',
+      title: 'Swimming Pool',
     },
     {
-      url: '/images/whatsapp_image_2026-01-25_at_4.31.52_pm.jpeg',
+      url: '/images/down.jpeg',
+      title: 'Front View',
+    },
+    {
+      url: '/images/downl.jpeg',
+      title: 'Garden View',
+    },
+    {
+      url: '/images/downlo.jpeg',
       title: 'Hill Views',
     },
     {
-      url: '/images/whatsapp_image_2026-01-25_at_4.31.52_pm_(1).jpeg',
+      url: '/images/front.jpeg',
       title: 'Property View',
     },
     {
-      url: '/images/whatsapp_image_2026-01-25_at_4.31.52_pm.jpeg',
-      title: 'Premium Suite',
+      url: '/images/downloads.jpeg',
+      title: 'Night View',
     },
     {
-      url: '/images/whatsapp_image_2026-01-25_at_4.31.52_pm_(1).jpeg',
-      title: 'Resort Area',
+      url: '/images/kids.jpeg',
+      title: 'Kids Play Area',
     },
   ];
 

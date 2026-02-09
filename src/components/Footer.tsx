@@ -1,5 +1,5 @@
 import { Facebook, Instagram, Twitter, Mail, Phone, MapPin } from 'lucide-react';
-
+import { FaWhatsapp } from "react-icons/fa";
 const Footer = () => {
   const currentYear = new Date().getFullYear();
 
@@ -37,6 +37,14 @@ const Footer = () => {
               >
                 <Twitter size={20} />
               </a>
+              <a
+  href="https://wa.me/9187088861"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="w-10 h-10 bg-gray-800 text-white rounded-full flex items-center justify-center hover:bg-green-500 transition-colors"
+>
+  <FaWhatsapp size={20} />
+  </a>
             </div>
           </div>
 
@@ -89,7 +97,7 @@ const Footer = () => {
               <li className="flex items-start gap-3">
                 <MapPin size={18} className="mt-1 flex-shrink-0" />
                 <span className="text-gray-400">
-                  Malnad Region, Karnataka, India
+                  Sakleshpur, Karnataka, India
                 </span>
               </li>
             </ul>
@@ -114,7 +122,8 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-gray-800 pt-8 text-center text-gray-400">
-          <p>&copy; {currentYear} Hillock Vista Homestay. All rights reserved.</p>
+          <p>&copy; {currentYear} Hillock Vista Homestay. All rights reserved. Developed by STORMX Technologies ,
+            Marketing by LETSOUT </p>
         </div>
       </div>
     </footer>

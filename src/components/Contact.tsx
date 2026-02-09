@@ -82,7 +82,7 @@ const Contact = () => {
                 <div>
                   <h4 className="font-semibold text-gray-900 mb-1">Location</h4>
                   <p className="text-gray-600">
-                    Malnad Region, Karnataka, India
+                    Sakleshpur, Karnataka, India
                   </p>
                 </div>
               </div>
@@ -90,7 +90,7 @@ const Contact = () => {
 
             <div className="relative h-64 rounded-lg overflow-hidden shadow-lg">
               <img
-                src="/images/whatsapp_image_2026-01-25_at_4.31.52_pm_(1).jpeg"
+                src="/images/downlo.jpeg"
                 alt="Malnad Hills"
                 className="w-full h-full object-cover"
               />

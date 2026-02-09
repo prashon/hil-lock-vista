@@ -75,7 +75,7 @@ const Amenities = () => {
 
         <div className="mt-16 relative h-96 rounded-2xl overflow-hidden shadow-2xl">
           <img
-            src="/images/whatsapp_image_2026-01-25_at_4.31.52_pm.jpeg"
+            src="/images/front.jpeg"
             alt="Pool View"
             className="w-full h-full object-cover"
           />
